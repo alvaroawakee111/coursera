@@ -1,3 +1,4 @@
 <resources>
-    <string name="inicio">Proyecto de inicio Coursera</string>
+    <string name="inicio">Bienvenido</string>
+    <string name="btnEntrar">Entrar</string>
 </resources>

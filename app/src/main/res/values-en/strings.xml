@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="inicio">Coursera start project</string>
+    <string name="inicio">Welcome</string>
+    <string name="btnEntrar">Enter</string>
 </resources>
